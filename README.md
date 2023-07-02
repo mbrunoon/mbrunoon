@@ -1,6 +1,6 @@
 ### First of all... let me pour you some coffee ☕
 
-Hello, my name is** Marcos Bruno** (but you can call me Bruno).
+Hello, my name is **Marcos Bruno** (but you can call me Bruno).
 
 Currently I´m a **Ruby on Rails** developer and a **Go** developer in progress.
 
