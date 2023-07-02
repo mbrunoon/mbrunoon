@@ -1,4 +1,12 @@
-### Hi there 👋
+### First of all... let me pour you some coffee ☕
+
+Hello, my name is** Marcos Bruno** (but you can call me Bruno).
+
+Currently I´m a **Ruby on Rails** developer and a **Go** developer in progress.
+
+Fell free to reach me in [**LinkedIn**](https://www.linkedin.com/in/mbrunoon/).
+
+See you! 😁👊
 
 <!--
 **mbrunoon/mbrunoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
