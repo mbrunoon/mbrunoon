@@ -1,10 +1,10 @@
 ### First of all... let me pour you some coffee ☕
 
-Hello, my name is **Marcos Bruno** (but you can call me Bruno).
+Hello, my name is **Marcos Bruno**. Currently I´m a **Ruby on Rails** developer and a **Go** developer in progress.
 
-Currently I´m a **Ruby on Rails** developer and a **Go** developer in progress.
+🌱 You can check my **Go** progress in my [**Portfolio** (github.com/mbrunoon/go-dev-go)](https://github.com/mbrunoon/go-dev-go)
 
-Fell free to reach me in [**LinkedIn**](https://www.linkedin.com/in/mbrunoon/).
+📫 Fell free to **reach me** in [**LinkedIn**](https://www.linkedin.com/in/mbrunoon/).
 
 See you! 😁👊
 
