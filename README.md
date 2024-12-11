@@ -2,7 +2,7 @@
 
 Hello, my name is **Marcos Bruno**. Currently I´m a **Ruby on Rails** developer and a **Go** developer in progress.
 
-🌱 You can check my **Go** progress in my [**Portfolio** (github.com/mbrunoon/go-dev-go)](https://github.com/mbrunoon/go-dev-go)
+Feel at home and browse through the projects. I have several others besides the public ones here, if you want to know more, just let me know.
 
 📫 Fell free to **reach me** in [**LinkedIn**](https://www.linkedin.com/in/mbrunoon/).
 
