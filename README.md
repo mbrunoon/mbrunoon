@@ -1,24 +1,19 @@
 ### First of all... let me pour you some coffee ☕
 
-Hello, my name is **Marcos Bruno**. Currently I´m a **Ruby on Rails** developer and a **Go** developer in progress.
+Hello, my name is **Marcos Bruno**.
 
-Feel at home and browse through the projects. I have several others besides the public ones here, if you want to know more, just let me know.
+I'm a **Ruby on Rails developer** with experience building web applications and working with modern software engineering practices.
 
-📫 Fell free to **reach me** in [**LinkedIn**](https://www.linkedin.com/in/mbrunoon/).
+I enjoy building things from scratch, exploring new technologies, and turning ideas into working products.
+
+One of my current side projects is [**GainScore**](https://gainscore.me/), a workout management platform I'm building with **Ruby on Rails**, where I'm exploring product development, software architecture, and AI-assisted features.
+
+Feel at home and browse through my projects. I have several others besides the public ones here, so if you'd like to know more, just let me know.
+
+📫 Feel free to **reach me** on [**LinkedIn**](https://www.linkedin.com/in/mbrunoon/).
 
 See you! 😁👊
 
 <!--
-**mbrunoon/mbrunoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**mbrunoon/mbrunoon** is a ✨ _special_ ✨ repository because its `README.md` file appears on your GitHub profile.
 -->
